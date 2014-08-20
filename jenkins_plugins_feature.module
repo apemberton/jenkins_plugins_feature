@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Jenkins Plugins Feature feature.
+ */
+
+include_once 'jenkins_plugins_feature.features.inc';
